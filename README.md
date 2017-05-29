@@ -7,7 +7,7 @@ This software takes the given NxM matrix of states and prints out the NxMxNxM Q-
 In a terminal window, go to project's directory and run the index.js file.
 
 	
-	cd q-learning-master
+	cd q-learning-js
 	node .
 	
 You can also set the Gamma, initial state, and matrix of states in the environent.jsm file.
